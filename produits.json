@@ -1,0 +1,17 @@
+[
+  {"id": 1, "img": "images/pneu1-removebg-preview.png", "nom": "285/40R22", "prix_initial": 150000, "prix_promo": 140000},
+  {"id": 2, "img": "images/pneu2-removebg-preview.png", "nom": "275/45R21", "prix_initial": 150000, "prix_promo": 140000},
+  {"id": 3, "img": "images/pneu3-removebg-preview.png", "nom": "245/50R20", "prix_initial": 80000, "prix_promo": 75000},
+  {"id": 4, "img": "images/pneu4-removebg-preview.png", "nom": "285/50R20", "prix_initial": 100000, "prix_promo": 90000},
+  {"id": 5, "img": "images/pneu5-removebg-preview.png", "nom": "245/45R20", "prix_initial": 80000, "prix_promo": 75000},
+  {"id": 6, "img": "images/pneu6-removebg-preview.png", "nom": "265/50R20", "prix_initial": 100000, "prix_promo": 90000},
+  {"id": 7, "img": "images/pneu7-removebg-preview.png", "nom": "255/55R20", "prix_initial": 100000, "prix_promo": 90000},
+  {"id": 8, "img": "images/pneu8-removebg-preview.png", "nom": "275/55R20", "prix_initial": 100000, "prix_promo": 90000},
+  {"id": 9, "img": "images/pneu9-removebg-preview.png", "nom": "235/35R20", "prix_initial": 80000, "prix_promo": 75000},
+  {"id": 10, "img": "images/pneu10-removebg-preview.png", "nom": "275/45R20", "prix_initial": 100000, "prix_promo": 90000},
+  {"id": 11, "img": "images/pneu11-removebg-preview.png", "nom": "235/55R20", "prix_initial": 90000, "prix_promo": 80000},
+  {"id": 12, "img": "images/pneu12-removebg-preview.png", "nom": "255/55R19", "prix_initial": 80000, "prix_promo": 75000},
+  {"id": 13, "img": "images/pneu13-removebg-preview.png", "nom": "245/55R19", "prix_initial": 80000, "prix_promo": 75000},
+  {"id": 14, "img": "images/pneu14-removebg-preview.png", "nom": "245/50R19", "prix_initial": 75000, "prix_promo": 70000},
+  {"id": 15, "img": "images/pneu15-removebg-preview.png", "nom": "235/55R19", "prix_initial": 75000, "prix_promo": 70000}
+]
